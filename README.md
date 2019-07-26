@@ -61,6 +61,18 @@ private func sendDataToFireStore(categoryName: String, foodName: String, quantit
 }
 ```
 
+### About Design
+**Main Color**<br>
+I tried to show mood of happy, relax... So that I decided to use yellow and green.<br>
+Then I used this site to find color pattern: https://pigment.shapefactory.co/<br>
+<img width="200" alt="Screen Shot 2019-07-26 at 3 14 29 PM" src="https://user-images.githubusercontent.com/18627505/61984170-156fc300-afb8-11e9-8b3a-dd690127e0c3.png">
+
+**Illustration of FoodGroup**<br>
+I drew these illustration. I used Paper app for drawing.<br>
+<img width="500" alt="Screen Shot 2019-07-26 at 3 44 40 PM" src="https://user-images.githubusercontent.com/18627505/61985072-4e119b80-afbc-11e9-859b-de9248650293.png">
+
+
+
 
 
 
